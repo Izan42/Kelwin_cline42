@@ -3,3 +3,4 @@ Orange is the second colour of the rainbow.
 Yellow is the third colour of the rainbow.
 Green is the fourth colour of the rainbow.
 Blue is the fivth colour of the rainbow.
+Purple is the sixth colour of the rainbow.
